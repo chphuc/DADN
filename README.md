@@ -11,7 +11,6 @@ This website is the outcome of my work during the `MULTIDISCIPLINARY PROJECT` co
 - Notifications: Sending timely notifications to users when there are changes or deviations in the device readings, ensuring prompt awareness and response.
 - Device settings customization: Enabling users to customize and set the permissible ranges for different device parameters, ensuring optimal control and management.
 - Device control: Empowering users to remotely control and operate devices as needed, offering convenience and flexibility in managing equipment operations.
----
 
 ## Setup
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
