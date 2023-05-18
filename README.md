@@ -16,7 +16,6 @@ This website is the outcome of my work during the `MULTIDISCIPLINARY PROJECT` co
 ## Setup
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
 
----
 ## Usage
 After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
 
